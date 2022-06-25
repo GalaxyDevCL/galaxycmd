@@ -1,0 +1,2 @@
+# galaxycmd
+comando /limpiarchat
